@@ -97,8 +97,6 @@
           <strong>
             © {{ new Date().getFullYear() }}
             <router-link to="/">&nbsp;It's Lit</router-link>
-            <strong class="white--text">Usman Dev</strong>
-          </a>
         </v-col>
       </v-row>
     </v-footer>
